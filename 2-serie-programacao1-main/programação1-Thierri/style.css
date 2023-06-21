@@ -1,15 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 header {
     background-color:#0a1451;
     color:#ffffff;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
 }
 
 .imagem-logo {
@@ -22,3 +14,15 @@ header {
 .lista-cabeçalho {
     display: flex;
 }
+
+.imagem-colégio {
+    width: 20%;
+    height: 20%;
+}
+
+.Escola {
+    background-image: linear-gradient(#0a1451,#7390ce);
+    color: white;
+    display: flex;
+}
+

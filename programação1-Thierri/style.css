@@ -3,7 +3,26 @@ header {
     color:#ffffff;
     display: flex;
 }
-*{
-margin: 0;
-padding: 0;
+
+.imagem-logo {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    padding: 20px;
 }
+
+.lista-cabeçalho {
+    display: flex;
+}
+
+.imagem-colégio {
+    width: 20%;
+    height: 20%;
+}
+
+.Escola {
+    background-image: linear-gradient(#0a1451,#7390ce);
+    color: white;
+    display: flex;
+}
+
