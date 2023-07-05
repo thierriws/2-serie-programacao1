@@ -2,6 +2,9 @@ header {
     background-color:#0a1451;
     color:#ffffff;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .imagem-logo {
@@ -25,4 +28,3 @@ header {
     color: white;
     display: flex;
 }
-
